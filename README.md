@@ -4,8 +4,8 @@ Simple client library for authentication, view method calls, and contracts calls
 
 * /web4/login → `login()`
 * /web4/logout → `logout()`
-* GET /web4/contract/{contract_id}/{method_name} → `await view()`
-* POST /web4/contract/{contract_id}/{method_name} → `await call()`
+* `GET` /web4/contract/{contract_id}/{method_name} → `await view()`
+* `POST` /web4/contract/{contract_id}/{method_name} → `await call()`
 
 To see it in action or deploy your own profile to web4, try out [this example](https://github.com/NEARBuilders/profile).
 
