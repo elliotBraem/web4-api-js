@@ -1,6 +1,6 @@
 # web4-api-js
 
-Simple client library for authentication, view method calls, and contracts calls for apps deployed to [web4](https://github.com/vgrichina/web4).
+Simple client library for authentication, view method calls, and contracts calls for apps deployed to [web4](https://web4.near.page/).
 
 * /web4/login → `login()`
 * /web4/logout → `logout()`
