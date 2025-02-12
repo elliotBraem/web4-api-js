@@ -1,0 +1,42 @@
+{
+  "name": "web4-api-js",
+  "version": "1.0.0",
+  "description": "Client library for interacting with web4 api",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
+  "files": [
+    "index.ts",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "keywords": [
+    "web4",
+    "near",
+    "blockchain",
+    "api",
+    "client"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliotBraem/web4-api-js"
+  },
+  "bugs": {
+    "url": "https://github.com/elliotBraem/web4-api-js/issues"
+  },
+  "homepage": "https://github.com/elliotBraem/web4-api-js#readme",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/js-cookie": "^3.0.6",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.5"
+  }
+}
